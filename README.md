@@ -9,7 +9,7 @@ After the information has been processed by the algorithm, it is displayed in th
 Screenshot below shows the program window at startup:
 ![image](https://user-images.githubusercontent.com/76261338/189528327-dc088e28-7b38-48cd-8f1f-fd0cb7066da6.png)
 
-After filling in all the corresponding fields, press the button shown in the screenshot below to connect to the database using the input data:
+After filling in all the corresponding fields, press the button shown in the screenshot below to connect to the database using the input data:  
 ![image](https://user-images.githubusercontent.com/76261338/189528446-17fdc2ba-515d-4d37-b8d4-1ff37b304ca0.png)
 
 After connecting to the database, the program window will look like the next screenshot:
