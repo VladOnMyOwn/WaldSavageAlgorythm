@@ -15,7 +15,7 @@ After filling in all the corresponding fields, press the button shown in the scr
 After connecting to the database, the program window will look like the next screenshot:
 ![image](https://user-images.githubusercontent.com/76261338/189528464-9a76b152-0c30-45dd-b3c4-cda241de2c36.png)
 
-After the necessary database has been connected and data has been unloaded, to form priority queues of game strategies it is necessary to press the button shown in the screenshot:
+After the necessary database has been connected and data has been unloaded, to form priority queues of game strategies it is necessary to press the button shown in the screenshot:  
 ![image](https://user-images.githubusercontent.com/76261338/189528529-7dbbcc7b-d87b-443f-978d-dcc98bd838ac.png)
 
 After clicking the above button, the algorithm will be launched to build a set of strategies optimally according to the Wald-Savage criterion, and then an algorithm to build a set of priority queues of game strategies with all the necessary results displayed:
